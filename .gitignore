@@ -1,0 +1,14 @@
+﻿# Flutter / Dart
+.dart_tool/
+build/
+# Android
+**/local.properties
+**/*.keystore
+**/*.jks
+# IDE
+.vscode/
+.idea/
+*.iml
+# SO
+.DS_Store
+Thumbs.db
